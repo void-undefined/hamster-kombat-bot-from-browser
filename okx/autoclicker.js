@@ -6,6 +6,7 @@
 // @author      void_undefined
 // @homepage    https://github.com/void-undefined/hamster-kombat-bot-from-browser 
 // @description 22.07.2024, 23:50:43
+// @icon        https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8fIh36hOYyMEv7XiDsX0EMOP2MC18Trptg&s
 // @downloadURL https://github.com/void-undefined/hamster-kombat-bot-from-browser/raw/master/okx/autoclicker.js
 // @updateURL   https://github.com/void-undefined/hamster-kombat-bot-from-browser/raw/master/okx/autoclicker.js
 // ==/UserScript==
