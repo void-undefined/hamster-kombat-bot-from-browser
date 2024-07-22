@@ -1,6 +1,5 @@
 // ==UserScript==
-// @name        OKX racer
-// @namespace   Violentmonkey Scripts
+// @name        OKX Autoclicker
 // @match       *://www.okx.com/*
 // @grant       none
 // @version     1.0
@@ -10,6 +9,7 @@
 // @downloadURL https://github.com/void-undefined/hamster-kombat-bot-from-browser/raw/master/okx/autoclicker.js
 // @updateURL   https://github.com/void-undefined/hamster-kombat-bot-from-browser/raw/master/okx/autoclicker.js
 // ==/UserScript==
+
 
 const sleep = async(time) => {
   await new Promise((resolve) => {
