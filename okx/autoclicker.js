@@ -5,9 +5,10 @@
 // @grant       none
 // @version     1.0
 // @author      void_undefined
+// @homepage    https://github.com/void-undefined/hamster-kombat-bot-from-browser 
 // @description 22.07.2024, 23:50:43
-// @downloadURL  https://github.com/void-undefined/hamster-kombat-bot-from-browser/raw/master/okx/autoclicker.js
-// @updateURL    https://github.com/void-undefined/hamster-kombat-bot-from-browser/raw/master/okx/autoclicker.js
+// @downloadURL https://github.com/void-undefined/hamster-kombat-bot-from-browser/raw/master/okx/autoclicker.js
+// @updateURL   https://github.com/void-undefined/hamster-kombat-bot-from-browser/raw/master/okx/autoclicker.js
 // ==/UserScript==
 
 const sleep = async(time) => {
